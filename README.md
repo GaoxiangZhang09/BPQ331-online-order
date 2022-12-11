@@ -28,21 +28,27 @@ The entire project is built on Jupiter Notebook, written in Python. We used read
 
 ### Coding
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/105685880/206910459-b1dadc2d-9a9a-4122-8cbf-77a23086f29c.png">
+
 ### Matching record
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/105685880/206885438-1b155d20-12ef-4038-9d28-724173ecba22.png">
+
 ### Iterations 2
+
 ### Coding
 <img width="723" alt="image" src="https://user-images.githubusercontent.com/105685880/206910426-b54516d3-6c09-4994-8821-45b83d0b0836.png">
+
 ### Matching record
 <img width="760" alt="image" src="https://user-images.githubusercontent.com/105685880/206910405-4d3a15cd-0c9b-426c-951e-aa6c7ecfc1e2.png">
+
 ### Iterations 3
 ### Coding
 <img width="724" alt="image" src="https://user-images.githubusercontent.com/105685880/206910358-939c3c73-1eb0-48c8-9e26-980991ffa090.png">
+
 ### Matching record
 <img width="772" alt="image" src="https://user-images.githubusercontent.com/105685880/206910339-82861370-e87e-4d4a-afb4-b1c9b58b7449.png">
 
 
-##references:
+## references:
 https://www.nltk.org/
 https://www.w3schools.com/python/pandas/pandas_csv.asp
 
